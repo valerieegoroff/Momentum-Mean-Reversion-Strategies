@@ -2,7 +2,7 @@
 Side-by-side comparison of momentum and mean reversion equity strategies using Python, pandas, and finance.
 
 # Momentum vs. Mean Reversion: Backtest and Strategy Comparison
-This project explores and compares two classic equity trading strategies using historical data from 2015 to 2024:
+This project explores and compares two classic equity trading strategies using historical data from 2015 to 2025:
 
 **Momentum Strategy**: Buys the top 3 performing stocks each month based on their 12-month return.
 **Mean Reversion Strategy**: Buys the bottom 3 performing stocks each week based on their most recent 1-week loss.
